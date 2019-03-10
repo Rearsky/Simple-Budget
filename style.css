@@ -1,0 +1,49 @@
+
+/* Spurlock and Collins 2019 */
+
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body{
+	width: 100%;
+	margin: auto;
+}
+
+#top-wall {
+  background-image: url("sky.jpg");
+  background-size: cover;
+  line-height: 1.5;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#top-wall h1 {
+font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+color: white;
+line-height: 1.5;
+color:#333;
+font-size: 2.5em;
+}
+
+.content{
+	max-width: 40em;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+	line-height: 1.5;
+	color:#555;
+	width: 100%;
+	margin: 0 auto;
+}
+
+h1,
+h2,
+strong{
+		color: #333;
+		font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+
+
+
+
